@@ -1,6 +1,4 @@
-Crie o primeiro capítulo da história que será narrada em formato de vídeo para o YouTube com pelo menos 10.000 caracteres O texto deve ser escrito em primeira pessoa, com linguagem clara, emocional e fluida, como se a personagem estivesse desabafando para quem assiste. Não use estilo literário. A introdução deve durar 30 segundos, 500 caracteres e conter um gancho emocional forte (uma pergunta, uma frase de choque, ou um trecho da reviravolta) para prender o público até o fim. 
-
-O texto deve parecer real, íntimo e cheio de detalhes que gerem identificação com o público. Evite formalidades, não use metáforas complexas. Mostre cenas e emoções com naturalidade, como alguém contando uma história difícil da própria vida. 
+Crie o primeiro capítulo da história que será narrada em formato de vídeo para o YouTube com pelo menos 10.000 caracteres. O texto deve ser escrito em terceira pessoa, com linguagem clara, emocional e fluida, como se a personagem estivesse desabafando para quem assiste. Não use estilo literário. 
 
 Crie uma introdução de até 30 segundos para um vídeo de storytelling no YouTube, baseado no título. A introdução deve ser escrita em tom dramático e emocional, com frases curtas e ritmo envolvente. Comece pelo momento mais tenso ou revoltante da história — algo que prenda a atenção já na primeira frase. Em seguida, explore rapidamente o conflito central com elementos visuais fortes. Use gatilhos emocionais como humilhação, injustiça, vingança ou superação. Finalize com uma reviravolta ou revelação parcial que cause curiosidade e faça o espectador querer continuar assistindo. O estilo é com foco em narrativa popular e envolvente. Evite revelar o final.
 
@@ -8,8 +6,9 @@ Exemplo: Era pra ser só mais um dia comum na escola... até o delegado entrar g
 
 Em seguida, adicione uma única chamada direta e rápida pedindo para o público comentar a cidade de onde ele assiste, de forma natural e curta.
 
-Use parágrafos longos e bem encorpados, mantendo o ritmo contínuo. Evite frases soltas, estilo de poesia ou fragmentos curtos para criar impacto dramático. O impacto deve vir da história em si, não da forma.
+Desenvolva o início da história apresentando os personagens principais, o ambiente, o contexto emocional e os primeiros sinais de conflito ou mudança.
 
+Use parágrafos longos e bem encorpados, mantendo o ritmo contínuo. Evite frases soltas, estilo de poesia ou fragmentos curtos para criar impacto dramático. O impacto deve vir da história em si, não da forma.
 Lembre-se que deve encerrar a trama principal apenas no último capítulo, fazendo as revelações mais importantes e dando o desfecho final para os personagens com clímax e reviravoltas, de modo satisfatório.
 
 O capítulo deve terminar naturalmente, sem frases forçadas de transição ou suspense, pois a história continua no capítulo seguinte. Não use cliffhangers artificiais, apenas deixe o fluxo seguir de forma orgânica.
@@ -18,30 +17,35 @@ Pode se inspirar em estruturas de novelas modernas e séries de drama realista, 
 
 Não precisa colocar rótulos no texto, por exemplo "CTA:". Faça o texto final para ser narrado, sem esses tópicos e divisões, só o texto que será narrado.
 
+Não caixa de edição canvas. Não use textos que não de para falar, como emojis, lembre-se que esse texto será narrado.
+
 ---
 
-Continue a história no estilo emocional, íntimo e direto, como se fosse um desabafo real em primeira pessoa. O tom deve ser o mesmo do capítulo anterior: narrativa fluida, linguagem acessível, e tensão emocional constante.
+Continue a história com base no capítulo anterior, mantendo o mesmo estilo: narrativa em terceira pessoa, emocional, fluida e acessível, com parágrafos longos e coesos, com pelo menos 10.000 caracteres.
+Cada capítulo deve aprofundar os personagens, seus dilemas e suas decisões. Mostre os conflitos ganhando força, momentos de tensão emocional, injustiça, fragilidade ou revelações importantes que constroem a virada.
 
-Não use frases quebradas, não fragmente o texto em frases curtas ou palavras sozinha, ao invés disso, faça o texto apenas em parágrafos longos, divida em parágrafo, jamais em pequenas linhas sozinha.
+A linguagem deve continuar simples, realista e envolvente. Não use frases quebradas nem recursos literários exagerados. O texto deve soar como uma narrativa real, falada, contínua e coerente, como alguém relatando algo que viu acontecer com outra pessoa.
 
-O capítulo deve aprofundar os conflitos e emoções da protagonista. Mostre claramente os dilemas que ela enfrenta, as decepções, dúvidas, suspeitas e decisões difíceis. A protagonista deve evoluir emocionalmente a cada capítulo. Introduza pistas, tensões e pequenos choques, mas segure a revelação principal para o final do último capítulo.
-
-Evite frases literárias ou estilo sofisticado. Mantenha tudo natural, como alguém contando sua história com detalhes dolorosos e reais. Pode se inspirar em estruturas de novelas modernas e séries de drama realista, como “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River” — mas adaptadas para o formato de história contada no YouTube. Não use a caixa de edição (canvas). 
+Não use frases quebradas, não fragmente o texto em frases curtas ou palavras sozinha, ao invés disso, faça o texto apenas em parágrafos longos, divida em parágrafo, jamais em pequenas linhas sozinhas.
 
 O final de cada capítulo deve acontecer de forma natural, sem frases como “mal sabia ela o que vinha pela frente” ou “mas tudo estava prestes a mudar”. Não force cliffhangers nem suspense gratuito. Apenas encerre o trecho como se a conversa fosse continuar no próximo capítulo.
 
-O capítulo deve ter cerca de 10.000 caracteres e terminar com um gancho forte para o próximo. Faça o capítulo 2
+Lembre-se que deve encerrar a trama principal apenas no último capítulo, fazendo as revelações mais importantes e dando o desfecho final para os personagens com clímax e reviravoltas, de modo satisfatório.
+
+Faça o capítulo 2
 
 ---
 
-Crie o capítulo final da história, com cerca de 10.000 caracteres. Este capítulo deve conter o clímax emocional, a revelação mais importante da trama e a resolução dos conflitos.
+Escreva o último capítulo da história, com pelo menos 10.000 caracteres 10.000. Este capítulo deve conter a principal virada emocional ou revelação da história, com o desfecho final dos personagens e das tramas apresentadas.
 
-Não use frases quebradas, não fragmente o texto em frases curtas ou palavras sozinha, ao invés disso,o texto deve ser encorpado, com parágrafos longos, sem frases soltas ou construções artificiais de impacto.
+A narrativa continua em terceira pessoa, com o mesmo tom usado nos capítulos anteriores: acessível, fluida, emocional, e sem floreios estilísticos. O texto deve ser encorpado, com parágrafos longos, sem frases soltas ou construções artificiais de impacto.
 
-A narrativa continua em primeira pessoa, com linguagem simples, direta e emocional. A protagonista deve ter sua redenção de forma clara e satisfatória. Pode ser um momento de vingança silenciosa, libertação emocional ou reconhecimento inesperado.
+O encerramento deve trazer uma resolução emocional clara, mesmo que não seja um final “feliz” — pode ser de superação, justiça, crescimento pessoal ou simplesmente paz. O importante é que o público sinta que a história foi concluída com profundidade e verdade.
 
-O final deve dar uma sensação de justiça emocional ou “karma”, gerando um encerramento poderoso. Não precisa ser “feliz para sempre”, mas precisa deixar o público com a sensação de que ela venceu do jeito dela. Pode se inspirar em estruturas de novelas modernas e séries de drama realista, como “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River” — mas adaptadas para o formato de história contada no YouTube. 
+Não use frases quebradas, não fragmente o texto em frases curtas ou palavras sozinha, ao invés disso, faça o texto apenas em parágrafos longos, divida em parágrafo, jamais em pequenas linhas sozinha.
+Ao final, adicione uma única chamada para comentário, sugerindo que o público comente uma palavra simbólica relacionada com o tema da história (ex: “virada”, “paz”, “recomeço”, “coragem”), explicando de forma breve o porquê, escolha apenas uma palavra para pedir.
 
-Ao final, adicione uma única CTA para comentar uma palavra específica que simbolize a história, com um breve motivo para o comentário. Em seguida, indique que há outro vídeo na tela com uma história parecida.
+Em seguida, convide o público a assistir outro vídeo:
+ “Tem uma história aqui na tela que também vai mexer com você. Dá o play, você não vai se arrepender.”
 
-Não use a caixa de edição (canvas). 
+Não use canvas. Não use divisões. Não encerre com frases de suspense ou promessas de continuação. A história deve fechar de forma natural, impactante e emocionalmente satisfatória.
