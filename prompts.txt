@@ -17,7 +17,7 @@ Pode se inspirar em estruturas de novelas modernas e séries de drama realista, 
 
 Não precisa colocar rótulos no texto, por exemplo "CTA:". Faça o texto final para ser narrado, sem esses tópicos e divisões, só o texto que será narrado.
 
-Não caixa de edição canvas. Não use textos que não de para falar, como emojis, lembre-se que esse texto será narrado.
+Não use caixa de edição canvas. Não use textos que não de para falar, como emojis, lembre-se que esse texto será narrado.
 
 ---
 
